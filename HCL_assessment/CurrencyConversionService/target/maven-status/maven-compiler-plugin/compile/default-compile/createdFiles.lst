@@ -1,0 +1,4 @@
+com/hcltest/springboot/microservice/currencyconversion/CurrencyConversionServiceApplication.class
+com/hcltest/springboot/microservice/currencyconversion/CurrencyConversionController.class
+com/hcltest/springboot/microservice/currencyconversion/CurrencyExchangeServiceProxy.class
+com/hcltest/springboot/microservice/currencyconversion/CurrencyConversion.class

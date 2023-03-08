@@ -1,0 +1,4 @@
+com/hcltest/springboot/microservice/currencyexchange/ExchangeValueController.class
+com/hcltest/springboot/microservice/currencyexchange/ExchangeValueRepository.class
+com/hcltest/springboot/microservice/currencyexchange/ExchangeValue.class
+com/hcltest/springboot/microservice/currencyexchange/CurrencyExchangeServiceApplication.class
